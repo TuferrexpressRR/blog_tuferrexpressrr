@@ -1,39 +1,14 @@
-## Welcome to GitHub Pages
+## Somos TuferrexpressRR
+# Bienvenidos a nuestro blog
+
+Aunque aun nos encontramos iniciando en el ambito ferretero,tenemos gran rápidez para adaptarnos a los cambios y aprovechamos las tecnologías para ofrecer más y mejores servicios a nuestros clientes.
+![image](https://github.com/TuferrexpressRR/tuferrexpressrr.cl/blob/main/bandera.png)
 
 
+##Contactanos
 
-You can use the [editor on GitHub](https://github.com/TuferrexpressRR/blog_tuferrexpressrr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* Dirección: Avenida Guillermo Ulricksen 4141 local 3, El Milagro 2, La Serena, Coquimbo, Chile 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Telefono: +56965306983
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TuferrexpressRR/blogtuferrexpres/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Correo: tuferrexpressrr2021@gmail.com
