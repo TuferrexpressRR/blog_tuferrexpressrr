@@ -1,7 +1,7 @@
 ## Somos TuferrexpressRR
 # Bienvenidos a nuestro blog
 
-Aunque aun nos encontramos iniciando en el ambito ferretero,tenemos gran rápidez para adaptarnos a los cambios y aprovechamos las tecnologías para ofrecer más y mejores servicios a nuestros clientes.
+Aunque aun nos encontramos iniciando en el ambito ferretero, tenemos gran rápidez para adaptarnos a los cambios y aprovechamos las tecnologías para ofrecer más y mejores servicios a nuestros clientes.
 ![image](https://github.com/TuferrexpressRR/tuferrexpressrr.cl/blob/main/bandera.png)
 
 
